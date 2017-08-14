@@ -1,0 +1,14 @@
+---
+layout: default
+title: notes
+permalink: /notes/
+---
+
+<h2>what I've learned</h2>
+<ul style="list-style-type:none">
+  {% for post in site.posts %}
+    <li>{{ post.date | date: "%d.%m.%y" }} -
+      <a class="post-link-main" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
