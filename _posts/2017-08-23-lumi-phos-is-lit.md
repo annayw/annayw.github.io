@@ -10,4 +10,4 @@ Conceptually, I learned about monoclonal vs. polyclonal antibodies, and the diff
 
 So it was an eventful week, and I felt like practicing molecular biology techniques and lab calculations while knowing what purpose the experiments would serve toward a bigger picture or discovery made the learning process quicker and less grueling. Except serial dilutions. I am totally convinced they're designed to scare undergrads from pursuing research entirely.
 
-* enzyme-linked immunosorbent assay (I'm cool)
+*enzyme-linked immunosorbent assay (I'm cool)
